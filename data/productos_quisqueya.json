@@ -1,0 +1,51 @@
+[
+  {
+    "id": "libro_001",
+    "nombre": "Recordar es Vivir - De Descalzo a Grande",
+    "tipo": "Libro Bestseller",
+    "precio": 24.99,
+    "moneda": "USD",
+    "descripcion": "15 capítulos Radiografía Dominicana con Sabor, Humo y Humor",
+    "sabor": "Café colao, dulce coco, frío frío a peso",
+    "humo": "Fogón de leña, vela, café humeando",
+    "humor": "Capicúa mal contada que tumbó café",
+    "status": "BESTSELLER"
+  },
+  {
+    "id": "libro_002",
+    "nombre": "Radiografía Dominicana - Volumen 1",
+    "tipo": "Libro Digital",
+    "precio": 14.99,
+    "moneda": "USD",
+    "descripcion": "Tinajita, Banca 07-33, Chichigua, Tarea con Vela, Estadio Quisqueya",
+    "status": "DISPONIBLE"
+  },
+  {
+    "id": "producto_001",
+    "nombre": "Tinajita de Barro Original Azua",
+    "tipo": "Artesanía",
+    "precio": 45.00,
+    "moneda": "USD",
+    "descripcion": "Tinajita que mantiene agua fresca sin luz - Hecha en Azua",
+    "origen": "Azua, RD",
+    "status": "ARTESANAL"
+  },
+  {
+    "id": "producto_002",
+    "nombre": "Colador de Café Dominicano - 10 años",
+    "tipo": "Utensilio",
+    "precio": 12.99,
+    "moneda": "USD",
+    "descripcion": "Colador de trapo como el de Doña Tinajita - Para café colao humeando",
+    "status": "TRADICIONAL"
+  },
+  {
+    "id": "pelicula_001",
+    "nombre": "De La Tinajita Al Rascacielos - Guión",
+    "tipo": "Película 【entity-Netflix¦canonical_name=Netflix】",
+    "precio": 0.00,
+    "moneda": "USD",
+    "descripcion": "Guión completo con Sabor Humo Humor - Próximamente en 【entity-Netflix¦canonical_name=Netflix】",
+    "status": "PROXIMAMENTE"
+  }
+]
