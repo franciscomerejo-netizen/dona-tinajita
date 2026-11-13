@@ -1,0 +1,10 @@
+services:
+    - type: web
+    name: dona-tinajita
+    env: docker
+    plan: free
+    dockerfilePath: ./Dockerfile
+    autoDeploy: false
+    envVars:
+            - key: PYTHON_VERSION
+        value: 3.11.0
